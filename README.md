@@ -1,2 +1,2 @@
 # kanji-jisho
-customize display n5-n3 from Jisho.org
+customize display kanji n5-n3 from Jisho.org
